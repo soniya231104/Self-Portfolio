@@ -28,7 +28,7 @@ export const clientReviews = [
     position: 'Professor of Computer Science',
     img: 'assets/review1.png',
     review:
-      'Soniya is extremely passionate about Artificial Intelligence and Data Science. He quickly grasps complex concepts and applies them to real-world projects. His curiosity and drive make him stand out among his peers.',
+      'Soniya is extremely passionate about Artificial Intelligence and Data Science. She quickly grasps complex concepts and applies them to real-world projects. Her curiosity and drive make her stand out among her peers.',
   },
   {
     id: 2,
@@ -36,7 +36,7 @@ export const clientReviews = [
     position: 'Hackathon Teammate',
     img: 'assets/review2.png',
     review:
-      'Collaborating with Soniya was a great experience. He brought strong coding expertise and kept the team organized. His problem-solving ability and leadership mindset are rare in a first-year undergrad.',
+      'Collaborating with Soniya was a great experience. She brought strong coding expertise and kept the team organized. Her problem-solving ability and leadership mindset are rare in a first-year undergrad.',
   },
   {
     id: 3,
@@ -44,7 +44,7 @@ export const clientReviews = [
     position: 'Industry Reviewer',
     img: 'assets/review3.png',
     review:
-      'Soniya’s Alzheimer’s detection project was very impressive. He broke down a real-world healthcare challenge and used machine learning to provide meaningful insights. His ability to connect technical solutions with practical use cases is commendable.',
+      'Soniya’s Alzheimer’s detection project was very impressive. She broke down a real-world healthcare challenge and used machine learning to provide meaningful insights. Her ability to connect technical solutions with practical use cases is commendable.',
   },
   {
     id: 4,
@@ -52,8 +52,9 @@ export const clientReviews = [
     position: 'Classmate & Collaborator',
     img: 'assets/review4.png',
     review:
-      'Soniya is extremely passionate about Artificial Intelligence and Data Science. He quickly grasps complex concepts and applies them to real-world projects. His curiosity and drive make him stand out among his peers.',
+      'Soniya is extremely passionate about Artificial Intelligence and Data Science. She quickly grasps complex concepts and applies them to real-world projects. Her curiosity and drive make her stand out among her peers.',
   },
+
 ];
 
 export const myProjects = [
