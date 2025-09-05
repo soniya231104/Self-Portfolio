@@ -60,7 +60,10 @@ A modern, interactive **3D portfolio website** built using **Three.js** and **We
 
 ---
 
-## Screenshots![upload3]
+## Screenshots!
+<img width="1895" height="929" alt="Screenshot 2025-09-06 013031" src="https://github.com/user-attachments/assets/38003062-457a-467b-844a-2244559040fc" />
+<img width="1791" height="895" alt="Screenshot 2025-09-06 012949" src="https://github.com/user-attachments/assets/c6d4b64f-1829-4045-b92e-485c7be338cf" />
+<img width="1895" height="929" alt="Screenshot 2025-09-06 012936" src="https://github.com/user-attachments/assets/5bf1bc7a-6242-4dd3-b49a-d0eecd43b2e8" />
 
 
 
