@@ -25,7 +25,7 @@ const About = () => {
             <img src="assets/grid1.png" alt="grid-1" className="w-full sm:h-[276px] h-fit object-contain" />
 
             <div>
-              <p className="grid-headtext">Hi, I’m Siddhant Patil</p>
+              <p className="grid-headtext">Hi, I’m Soniya</p>
               <p className="grid-subtext">
                 I’m a Computer Science undergrad specializing in AI, Data Science, and Full Stack Development.
                 Through internships and leadership roles, I’ve gained hands-on experience in machine learning,
@@ -112,7 +112,7 @@ const About = () => {
               <div className="copy-container" onClick={handleCopy}>
                 <img src={hasCopied ? 'assets/tick.svg' : 'assets/copy.svg'} alt="copy" />
                 <p className="lg:text-2xl md:text-xl font-medium text-gray_gradient text-white">
-                  siddhantpatil560@gmail.com
+                  soniya.231104@gmail.com
                 </p>
               </div>
             </div>

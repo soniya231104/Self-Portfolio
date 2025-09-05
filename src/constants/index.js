@@ -28,7 +28,7 @@ export const clientReviews = [
     position: 'Professor of Computer Science',
     img: 'assets/review1.png',
     review:
-      'Siddhant is extremely passionate about Artificial Intelligence and Data Science. He quickly grasps complex concepts and applies them to real-world projects. His curiosity and drive make him stand out among his peers.',
+      'Soniya is extremely passionate about Artificial Intelligence and Data Science. He quickly grasps complex concepts and applies them to real-world projects. His curiosity and drive make him stand out among his peers.',
   },
   {
     id: 2,
@@ -36,7 +36,7 @@ export const clientReviews = [
     position: 'Hackathon Teammate',
     img: 'assets/review2.png',
     review:
-      'Collaborating with Siddhant was a great experience. He brought strong coding expertise and kept the team organized. His problem-solving ability and leadership mindset are rare in a first-year undergrad.',
+      'Collaborating with Soniya was a great experience. He brought strong coding expertise and kept the team organized. His problem-solving ability and leadership mindset are rare in a first-year undergrad.',
   },
   {
     id: 3,
@@ -44,7 +44,7 @@ export const clientReviews = [
     position: 'Industry Reviewer',
     img: 'assets/review3.png',
     review:
-      'Siddhant’s Alzheimer’s detection project was very impressive. He broke down a real-world healthcare challenge and used machine learning to provide meaningful insights. His ability to connect technical solutions with practical use cases is commendable.',
+      'Soniya’s Alzheimer’s detection project was very impressive. He broke down a real-world healthcare challenge and used machine learning to provide meaningful insights. His ability to connect technical solutions with practical use cases is commendable.',
   },
   {
     id: 4,
@@ -52,7 +52,7 @@ export const clientReviews = [
     position: 'Classmate & Collaborator',
     img: 'assets/review4.png',
     review:
-      'Siddhant’s creativity and determination were evident in his Sign Language Translator project. He is a fast learner and a team player, always eager to build impactful solutions in AI and Data Science.',
+      'Soniya is extremely passionate about Artificial Intelligence and Data Science. He quickly grasps complex concepts and applies them to real-world projects. His curiosity and drive make him stand out among his peers.',
   },
 ];
 
@@ -260,29 +260,29 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
   {
     id: 1,
-    name: 'Data Science Wizards',
-    pos: 'Data Analyst Intern',
-    duration: 'Aug 2023 - Feb 2024',
-    title: 'Worked on Artificial Neural Networks and Computer Vision techniques to solve industry-specific problems. Strengthened analytical skills and gained experience in hybrid corporate settings.',
-    icon: '/assets/dsw.png',
-    animation: 'victory',
+    name: 'ISTE-RAIT',
+    pos: 'Publicity Co-head',
+    duration: 'June 2024 – Present',
+    title: 'Managed teamwork and ensured effective communication with students about the committee. Developed publicity plans for events, workshops, and seminars, strengthening organizational and collaboration skills.',
+    icon: '/assets/iste.png', // replace with your ISTE logo path
+    animation: 'salute',
   },
   {
     id: 2,
-    name: 'Viral Fission',
-    pos: 'Full Stack Developer',
-    duration: 'Feb 2022 - Jun 2023',
-    title: 'Designed and developed scalable web platforms using modern tech stacks. Enhanced backend logic, frontend responsiveness, and collaborated in hybrid/remote teams over 1+ year.',
-    icon: '/assets/viralfission.png',
-    animation: 'clapping',
+    name: '',
+    pos: '',
+    duration: '',
+    title: '[Reserved for future experience]',
+    icon: '',
+    animation: '',
   },
   {
     id: 3,
-    name: 'GDSC NMIMS',
-    pos: 'Technical Manager',
-    duration: 'May 2022 - Feb 2023',
-    title: 'Led student-led tech initiatives, managed technical operations for events/workshops, and strengthened leadership, event execution, and stakeholder communication.',
-    icon: '/assets/gdsc.png',
-    animation: 'salute',
+    name: '',
+    pos: '',
+    duration: '',
+    title: '[Reserved for future experience]',
+    icon: '',
+    animation: '',
   },
 ]

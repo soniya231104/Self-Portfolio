@@ -19,7 +19,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <p className="text-white-500">© 2025 Siddhant Patil. All rights reserved.</p>
+      <p className="text-white-500">© 2025 Soniya Wakode. All rights reserved.</p>
     </footer>
   );
 };
