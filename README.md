@@ -60,12 +60,10 @@ A modern, interactive **3D portfolio website** built using **Three.js** and **We
 
 ---
 
-## Screenshots![upload3](https://github.com/user-attachments/assets/d6bb6e03-0f17-4fcd-b067-9d2da42664df)
-![upload1](https://github.com/user-attachments/assets/b9cb333e-6254-4ea6-b6cd-04aa108991a6)
-![upload2](https://github.com/user-attachments/assets/97a313c1-8603-4f07-ad12-19389dc75a27)
+## Screenshots![upload3]
 
 
-*(Include a few screenshots or GIFs showing 3D animations and interactions)*
+
 
 ---
 
