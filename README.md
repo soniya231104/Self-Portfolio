@@ -1,4 +1,4 @@
-# Project Name: threejs-portfolio
+# Project Name: Self-Portfolio
 
 ## Description
 
